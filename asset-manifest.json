@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/.github.io/breast-cancer-react.git/static/css/main.45c0a94f.css",
+    "main.js": "/.github.io/breast-cancer-react.git/static/js/main.65b040a7.js",
+    "static/js/453.7204573b.chunk.js": "/.github.io/breast-cancer-react.git/static/js/453.7204573b.chunk.js",
+    "index.html": "/.github.io/breast-cancer-react.git/index.html",
+    "main.45c0a94f.css.map": "/.github.io/breast-cancer-react.git/static/css/main.45c0a94f.css.map",
+    "main.65b040a7.js.map": "/.github.io/breast-cancer-react.git/static/js/main.65b040a7.js.map",
+    "453.7204573b.chunk.js.map": "/.github.io/breast-cancer-react.git/static/js/453.7204573b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45c0a94f.css",
+    "static/js/main.65b040a7.js"
+  ]
+}
